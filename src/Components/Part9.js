@@ -1,6 +1,7 @@
 import React from 'react';
 import './Part9.css';
 import img1 from '../Images/img1.png';
+import img2 from '../Images/img2.png';
 import slide from '../Images/slide.png';
 
 const Part9 = () => {
@@ -20,7 +21,7 @@ const Part9 = () => {
     </div>
     <div className="card9">
       <div className="card-content9">
-        <img src={img1} alt="Image 1" />
+        <img src={img2} alt="Image 1" />
         <p>"We love Landingfolio! Our designers were using it for their projects, so we already knew what kind of design they want." <br/><b>-Raghu & Shwetha</b></p>
       </div>
     </div>

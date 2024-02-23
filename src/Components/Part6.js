@@ -1,6 +1,11 @@
 import React from 'react';
 import './Part6.css';
 import card2 from '../Images/card2.png';
+import card1 from '../Images/card1.png';
+import card3 from '../Images/card3.png';
+import card4 from '../Images/card4.png';
+import card5 from '../Images/card5.png';
+import card6 from '../Images/card6.png';
 
 const Part6 = () => {
   return (
@@ -40,31 +45,31 @@ const Part6 = () => {
     </div>
     <div className="card">
     <div className="card-content">
-        <img src={card2} alt="Image 1" />
+        <img src={card1} alt="Image 1" />
         <p>Sravani Reddykonda<br/>26 yrs | 5ft 6in<br/>Phn - 912177<br/>Mail - sravani@gmail.com<br/>Caste<br/>Occupation</p>
       </div>
     </div>
     <div className="card">
       <div className="card-content">
-        <img src={card2} alt="Image 1" />
+        <img src={card3} alt="Image 1" />
         <p>Sravani Reddykonda<br/>26 yrs | 5ft 6in<br/>Phn - 912177<br/>Mail - sravani@gmail.com<br/>Caste<br/>Occupation</p>
       </div>
     </div>
     <div className="card">
       <div className="card-content">
-        <img src={card2} alt="Image 1" />
+        <img src={card4} alt="Image 1" />
         <p>Sravani Reddykonda<br/>26 yrs | 5ft 6in<br/>Phn - 912177<br/>Mail - sravani@gmail.com<br/>Caste<br/>Occupation</p>
       </div>
     </div>
     <div className="card">
       <div className="card-content">
-        <img src={card2} alt="Image 1" />
+        <img src={card5} alt="Image 1" />
         <p>Sravani Reddykonda<br/>26 yrs | 5ft 6in<br/>Phn - 912177<br/>Mail - sravani@gmail.com<br/>Caste<br/>Occupation</p>
       </div>
     </div>
     <div className="card">
       <div className="card-content">
-        <img src={card2} alt="Image 1" />
+        <img src={card6} alt="Image 1" />
         <p>Sravani Reddykonda<br/>26 yrs | 5ft 6in<br/>Phn - 912177<br/>Mail - sravani@gmail.com<br/>Caste<br/>Occupation</p>
       </div>
     </div>
