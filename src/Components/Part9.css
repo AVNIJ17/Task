@@ -1,0 +1,24 @@
+.container9 {
+ 
+  margin: 40 auto; 
+  text-align: center; 
+  background-color: rgba(246, 246, 245, 1);
+  }
+  .card9{
+    
+    background-color: rgba(246, 246, 245, 1); 
+    
+    margin-bottom: 20px; 
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+
+
+  .card-container9 {
+    display: flex; 
+   
+  }
+
+  .hd-9{
+    color:orange;
+  }
